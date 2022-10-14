@@ -1,0 +1,4 @@
+baseURL = 'http://sarab.art/'
+languageCode = 'en-us'
+title = 'SARAB'
+theme = 'spectral'
